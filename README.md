@@ -3,10 +3,10 @@
 你好，我是陈鹏睿。
 
 ## 我的技能
--   编程语言：Python, JavaScript
--   框架：Django, Vue.js
+-   喜欢萝莉，擅长和萝莉沟通
+-   乐于助人，熟练掌握帮老奶奶过马路的技能
 
-![我的头像](./images/9848.jpg)
+![我的头像](./images/20.jpg)
 
 ## 联系我
--   GitHub: [用户名](https://github.com)
+-   tele:183 **** 7390 
